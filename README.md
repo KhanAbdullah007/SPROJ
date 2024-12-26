@@ -21,6 +21,9 @@
 
 
 **Credits:**
-  - Schaff Mirza: for his work on data merging and arrangement
-  - Jovera Shakeel: for her help in assisting with the study, including OLS and Random Forest
+  - Schaff Mirza: for his work on data merging and arrangement.
+  - Jovera Shakeel: for her help in assisting with the study, including OLS and Random Forest.
   - Shehzil Munir: for her help in assisting with the study.
+  - World Bank (https://data.worldbank.org): Financial and digital literacy metrics.
+  - International Telecommunication Union (ITU) (https://datahub.itu.int/indicators/): Digital Literacy metrics.
+  - META (https://dataforgood.facebook.com/dfg/tools/inclusive-internet-index#accessdata): Control Variables
