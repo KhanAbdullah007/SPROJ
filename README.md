@@ -19,3 +19,8 @@
   - Ordinary Least Squares (OLS): Explored linear relationships between digital literacy and financial outcomes, controlling for socioeconomic variables.
   - Random Forest: Identified non-linear relationships and feature importance in predicting financial outcomes.
 
+
+**Credits:**
+  - Schaff Mirza: for his work on data merging and arrangement
+  - Jovera Shakeel: for her help in assisting with the study, including OLS and Random Forest
+  - Shehzil Munir: for her help in assisting with the study.
