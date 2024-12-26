@@ -1,0 +1,108 @@
+================================================================================
+OLS Regression for Dependent Variable: borrowed_from_formal_pct
+================================================================================
+
+Filtered Results for Intermediate Variable: borrowed_from_formal_pct
+                               OLS Regression Results                               
+====================================================================================
+Dep. Variable:     borrowed_from_formal_pct   R-squared:                       0.688
+Model:                                  OLS   Adj. R-squared:                  0.667
+Method:                       Least Squares   F-statistic:                     33.45
+Date:                      Fri, 27 Dec 2024   Prob (F-statistic):           6.81e-18
+Time:                              03:03:41   Log-Likelihood:                -309.74
+No. Observations:                        82   AIC:                             631.5
+Df Residuals:                            76   BIC:                             645.9
+Df Model:                                 5                                         
+Covariance Type:                  nonrobust                                         
+============================================================================================================
+                                               coef    std err          t      P>|t|      [0.025      0.975]
+const                                        4.8459      2.428      1.996      0.050       0.011       9.681
+skill_internet_banking_pct                   0.1435      0.088      1.634      0.106      -0.031       0.318
+skill_uploading_content_pct                  0.1240      0.115      1.080      0.283      -0.105       0.353
+skill_arithmetic_formula_spreadsheet_pct     0.4000      0.171      2.341      0.022       0.060       0.740
+skill_software_run_over_the_internet_pct     0.4458      0.126      3.530      0.001       0.194       0.697
+skill_programming_pct                       -0.9553      0.427     -2.239      0.028      -1.805      -0.105
+==============================================================================
+Omnibus:                        2.855   Durbin-Watson:                   2.254
+Prob(Omnibus):                  0.240   Jarque-Bera (JB):                2.152
+Skew:                          -0.283   Prob(JB):                        0.341
+Kurtosis:                       3.557   Cond. No.                         118.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+================================================================================
+
+================================================================================
+OLS Regression for Dependent Variable: used_phone_or_internet_send_money_pct
+================================================================================
+
+Filtered Results for Intermediate Variable: used_phone_or_internet_send_money_pct
+                                      OLS Regression Results                                     
+=================================================================================================
+Dep. Variable:     used_phone_or_internet_send_money_pct   R-squared:                       0.413
+Model:                                               OLS   Adj. R-squared:                  0.374
+Method:                                    Least Squares   F-statistic:                     10.69
+Date:                                   Fri, 27 Dec 2024   Prob (F-statistic):           8.48e-08
+Time:                                           03:03:41   Log-Likelihood:                -342.26
+No. Observations:                                     82   AIC:                             696.5
+Df Residuals:                                         76   BIC:                             711.0
+Df Model:                                              5                                         
+Covariance Type:                               nonrobust                                         
+============================================================================================================
+                                               coef    std err          t      P>|t|      [0.025      0.975]
+const                                       20.1792      3.609      5.591      0.000      12.991      27.367
+skill_internet_banking_pct                   0.4984      0.131      3.816      0.000       0.238       0.758
+skill_uploading_content_pct                 -0.0198      0.171     -0.116      0.908      -0.360       0.320
+skill_arithmetic_formula_spreadsheet_pct     0.1542      0.254      0.607      0.546      -0.352       0.660
+skill_software_run_over_the_internet_pct    -0.0915      0.188     -0.487      0.627      -0.465       0.282
+skill_programming_pct                       -0.6618      0.634     -1.043      0.300      -1.925       0.602
+==============================================================================
+Omnibus:                        8.425   Durbin-Watson:                   2.245
+Prob(Omnibus):                  0.015   Jarque-Bera (JB):                8.197
+Skew:                           0.758   Prob(JB):                       0.0166
+Kurtosis:                       3.317   Cond. No.                         118.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+================================================================================
+
+================================================================================
+OLS Regression for Dependent Variable: saved_fin_account_or_mobile_pct
+================================================================================
+
+Filtered Results for Intermediate Variable: saved_fin_account_or_mobile_pct
+                                   OLS Regression Results                                  
+===========================================================================================
+Dep. Variable:     saved_fin_account_or_mobile_pct   R-squared:                       0.667
+Model:                                         OLS   Adj. R-squared:                  0.645
+Method:                              Least Squares   F-statistic:                     30.47
+Date:                             Fri, 27 Dec 2024   Prob (F-statistic):           7.20e-17
+Time:                                     03:03:41   Log-Likelihood:                -319.08
+No. Observations:                               82   AIC:                             650.2
+Df Residuals:                                   76   BIC:                             664.6
+Df Model:                                        5                                         
+Covariance Type:                         nonrobust                                         
+============================================================================================================
+                                               coef    std err          t      P>|t|      [0.025      0.975]
+const                                       13.2164      2.720      4.858      0.000       7.798      18.635
+skill_internet_banking_pct                   0.4226      0.098      4.293      0.000       0.226       0.619
+skill_uploading_content_pct                  0.1542      0.129      1.199      0.234      -0.102       0.411
+skill_arithmetic_formula_spreadsheet_pct     0.0017      0.191      0.009      0.993      -0.380       0.383
+skill_software_run_over_the_internet_pct     0.3443      0.142      2.433      0.017       0.062       0.626
+skill_programming_pct                       -0.7044      0.478     -1.473      0.145      -1.657       0.248
+==============================================================================
+Omnibus:                        1.563   Durbin-Watson:                   2.173
+Prob(Omnibus):                  0.458   Jarque-Bera (JB):                1.580
+Skew:                           0.269   Prob(JB):                        0.454
+Kurtosis:                       2.584   Cond. No.                         118.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+================================================================================
+

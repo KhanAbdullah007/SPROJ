@@ -1,0 +1,300 @@
+Results for Target Variable: deposit_has_fin_account_pct
+Mean Absolute Error: 11.4435
+Mean Squared Error: 212.2304
+R² Score: 0.6184
+
+Feature Importances:
+  skill_internet_banking_pct: 0.3604
+  gni_per_capita: 0.1110
+  fixed_broadband_cost: 0.1025
+  internet_users_pct.1: 0.0469
+  mobile_cost_postpaid: 0.0396
+  income_group_high_income: 0.0363
+  mobile_cost_prepaid: 0.0341
+  edu_attainment_pct: 0.0314
+  internet_users_pct: 0.0256
+  nominal_gdp: 0.0229
+  mobile_subscribers_pct: 0.0217
+  skill_software_run_over_the_internet_pct: 0.0210
+  skill_arithmetic_formula_spreadsheet_pct: 0.0206
+  schools_internet access_pct: 0.0186
+  smartphone_cost: 0.0161
+  income_group_upper_middle_income: 0.0161
+  literacy_pct: 0.0157
+  2G_coverage_pct: 0.0081
+  urban_population: 0.0074
+  adult_pop: 0.0066
+  population_under_poverty_line_pct: 0.0056
+  skill_programming_pct: 0.0056
+  gini_coefficient: 0.0051
+  skill_uploading_content_pct: 0.0043
+  mobile_upload_speed: 0.0038
+  3G_coverage_pct: 0.0036
+  4G_coverage_pct: 0.0029
+  global_peace_index: 0.0026
+  region_South America: 0.0009
+  support_digital_literacy: 0.0007
+  efinance_content: 0.0006
+  region_Middle East: 0.0005
+  region_North America: 0.0003
+  income_group_lower_middle_income: 0.0002
+  region_Africa: 0.0001
+  region_Oceania: 0.0001
+  mkt_structure_fixed_wireless_broadband_partialcomp: 0.0001
+  region_Europe: 0.0001
+  mkt_structure_fixed_wireless_broadband_monopoly: 0.0001
+  mkt_structure_fibre_partialcomp: 0.0001
+  mkt_structure_fibre_monopoly: 0.0001
+
+--------------------------------------------------
+
+Results for Target Variable: not_worried_index
+Mean Absolute Error: 1.8007
+Mean Squared Error: 5.3387
+R² Score: 0.7926
+
+Feature Importances:
+  literacy_pct: 0.1936
+  gni_per_capita: 0.1426
+  internet_users_pct.1: 0.1409
+  schools_internet access_pct: 0.0879
+  skill_software_run_over_the_internet_pct: 0.0630
+  edu_attainment_pct: 0.0540
+  skill_internet_banking_pct: 0.0512
+  internet_users_pct: 0.0440
+  mobile_cost_postpaid: 0.0369
+  fixed_broadband_cost: 0.0352
+  smartphone_cost: 0.0147
+  mobile_upload_speed: 0.0139
+  urban_population: 0.0118
+  skill_programming_pct: 0.0113
+  4G_coverage_pct: 0.0111
+  mobile_subscribers_pct: 0.0110
+  nominal_gdp: 0.0089
+  skill_arithmetic_formula_spreadsheet_pct: 0.0085
+  income_group_high_income: 0.0080
+  gini_coefficient: 0.0076
+  3G_coverage_pct: 0.0067
+  skill_uploading_content_pct: 0.0065
+  region_North America: 0.0060
+  mobile_cost_prepaid: 0.0058
+  global_peace_index: 0.0051
+  population_under_poverty_line_pct: 0.0044
+  adult_pop: 0.0044
+  2G_coverage_pct: 0.0023
+  efinance_content: 0.0008
+  support_digital_literacy: 0.0006
+  income_group_upper_middle_income: 0.0004
+  income_group_lower_middle_income: 0.0002
+  region_Middle East: 0.0002
+  mkt_structure_fixed_wireless_broadband_partialcomp: 0.0002
+  mkt_structure_fixed_wireless_broadband_monopoly: 0.0001
+  region_Africa: 0.0001
+  region_Europe: 0.0001
+  region_South America: 0.0001
+  mkt_structure_fibre_monopoly: 0.0001
+  mkt_structure_fibre_partialcomp: 0.0000
+  region_Oceania: 0.0000
+
+--------------------------------------------------
+
+Results for Target Variable: somewhat_worried_index
+Mean Absolute Error: 0.6431
+Mean Squared Error: 1.2191
+R² Score: 0.2681
+
+Feature Importances:
+  literacy_pct: 0.2214
+  edu_attainment_pct: 0.1038
+  skill_internet_banking_pct: 0.0886
+  gni_per_capita: 0.0626
+  internet_users_pct: 0.0617
+  internet_users_pct.1: 0.0347
+  nominal_gdp: 0.0300
+  skill_programming_pct: 0.0281
+  mobile_cost_prepaid: 0.0270
+  population_under_poverty_line_pct: 0.0258
+  smartphone_cost: 0.0238
+  adult_pop: 0.0233
+  mobile_subscribers_pct: 0.0218
+  region_Africa: 0.0204
+  urban_population: 0.0199
+  4G_coverage_pct: 0.0198
+  skill_uploading_content_pct: 0.0190
+  gini_coefficient: 0.0189
+  skill_software_run_over_the_internet_pct: 0.0181
+  mobile_cost_postpaid: 0.0180
+  mobile_upload_speed: 0.0148
+  2G_coverage_pct: 0.0145
+  skill_arithmetic_formula_spreadsheet_pct: 0.0139
+  3G_coverage_pct: 0.0134
+  fixed_broadband_cost: 0.0123
+  schools_internet access_pct: 0.0112
+  global_peace_index: 0.0099
+  region_South America: 0.0097
+  income_group_lower_middle_income: 0.0047
+  income_group_upper_middle_income: 0.0028
+  efinance_content: 0.0017
+  support_digital_literacy: 0.0012
+  mkt_structure_fixed_wireless_broadband_partialcomp: 0.0009
+  region_Middle East: 0.0006
+  region_North America: 0.0005
+  income_group_high_income: 0.0004
+  region_Europe: 0.0003
+  mkt_structure_fibre_monopoly: 0.0003
+  mkt_structure_fibre_partialcomp: 0.0002
+  mkt_structure_fixed_wireless_broadband_monopoly: 0.0000
+  region_Oceania: 0.0000
+
+--------------------------------------------------
+
+Results for Target Variable: very_worried_index
+Mean Absolute Error: 2.1748
+Mean Squared Error: 7.0782
+R² Score: 0.7660
+
+Feature Importances:
+  schools_internet access_pct: 0.1133
+  mobile_cost_postpaid: 0.1077
+  population_under_poverty_line_pct: 0.1072
+  literacy_pct: 0.1051
+  fixed_broadband_cost: 0.1013
+  edu_attainment_pct: 0.0770
+  gni_per_capita: 0.0617
+  internet_users_pct: 0.0580
+  internet_users_pct.1: 0.0515
+  skill_arithmetic_formula_spreadsheet_pct: 0.0453
+  skill_internet_banking_pct: 0.0316
+  mobile_cost_prepaid: 0.0181
+  2G_coverage_pct: 0.0141
+  3G_coverage_pct: 0.0139
+  adult_pop: 0.0127
+  nominal_gdp: 0.0111
+  region_Africa: 0.0083
+  global_peace_index: 0.0066
+  urban_population: 0.0062
+  gini_coefficient: 0.0060
+  mobile_subscribers_pct: 0.0059
+  mobile_upload_speed: 0.0057
+  smartphone_cost: 0.0055
+  skill_software_run_over_the_internet_pct: 0.0055
+  skill_programming_pct: 0.0038
+  4G_coverage_pct: 0.0038
+  efinance_content: 0.0029
+  skill_uploading_content_pct: 0.0024
+  region_North America: 0.0018
+  region_Middle East: 0.0013
+  mkt_structure_fibre_monopoly: 0.0010
+  region_Europe: 0.0009
+  income_group_high_income: 0.0008
+  income_group_upper_middle_income: 0.0005
+  income_group_lower_middle_income: 0.0004
+  support_digital_literacy: 0.0003
+  region_South America: 0.0003
+  mkt_structure_fibre_partialcomp: 0.0003
+  mkt_structure_fixed_wireless_broadband_monopoly: 0.0003
+  mkt_structure_fixed_wireless_broadband_partialcomp: 0.0001
+  region_Oceania: 0.0000
+
+--------------------------------------------------
+
+Results for Target Variable: worried_index
+Mean Absolute Error: 0.5326
+Mean Squared Error: 0.5099
+R² Score: 0.4605
+
+Feature Importances:
+  skill_internet_banking_pct: 0.1372
+  literacy_pct: 0.1228
+  internet_users_pct.1: 0.0803
+  fixed_broadband_cost: 0.0701
+  smartphone_cost: 0.0656
+  internet_users_pct: 0.0606
+  skill_arithmetic_formula_spreadsheet_pct: 0.0566
+  schools_internet access_pct: 0.0565
+  edu_attainment_pct: 0.0547
+  urban_population: 0.0286
+  mobile_cost_postpaid: 0.0279
+  skill_programming_pct: 0.0256
+  2G_coverage_pct: 0.0246
+  mobile_subscribers_pct: 0.0239
+  gini_coefficient: 0.0195
+  mobile_cost_prepaid: 0.0184
+  skill_uploading_content_pct: 0.0162
+  global_peace_index: 0.0127
+  mobile_upload_speed: 0.0126
+  4G_coverage_pct: 0.0123
+  gni_per_capita: 0.0120
+  adult_pop: 0.0110
+  skill_software_run_over_the_internet_pct: 0.0103
+  nominal_gdp: 0.0101
+  3G_coverage_pct: 0.0093
+  population_under_poverty_line_pct: 0.0087
+  income_group_upper_middle_income: 0.0045
+  region_North America: 0.0027
+  mkt_structure_fibre_monopoly: 0.0009
+  support_digital_literacy: 0.0008
+  region_Europe: 0.0007
+  region_Africa: 0.0005
+  region_South America: 0.0005
+  region_Middle East: 0.0005
+  income_group_high_income: 0.0004
+  efinance_content: 0.0002
+  income_group_lower_middle_income: 0.0002
+  mkt_structure_fixed_wireless_broadband_partialcomp: 0.0000
+  mkt_structure_fibre_partialcomp: 0.0000
+  mkt_structure_fixed_wireless_broadband_monopoly: 0.0000
+  region_Oceania: 0.0000
+
+--------------------------------------------------
+
+Results for Target Variable: borrowed_any_pct
+Mean Absolute Error: 8.0035
+Mean Squared Error: 115.1087
+R² Score: -0.0212
+
+Feature Importances:
+  nominal_gdp: 0.2254
+  region_Africa: 0.1249
+  edu_attainment_pct: 0.0970
+  region_North America: 0.0452
+  gni_per_capita: 0.0405
+  smartphone_cost: 0.0386
+  adult_pop: 0.0346
+  literacy_pct: 0.0340
+  urban_population: 0.0315
+  mobile_cost_prepaid: 0.0296
+  gini_coefficient: 0.0286
+  mobile_cost_postpaid: 0.0264
+  internet_users_pct: 0.0259
+  mobile_subscribers_pct: 0.0234
+  global_peace_index: 0.0192
+  2G_coverage_pct: 0.0164
+  skill_programming_pct: 0.0156
+  skill_uploading_content_pct: 0.0148
+  skill_arithmetic_formula_spreadsheet_pct: 0.0147
+  skill_internet_banking_pct: 0.0141
+  skill_software_run_over_the_internet_pct: 0.0137
+  mobile_upload_speed: 0.0126
+  fixed_broadband_cost: 0.0124
+  4G_coverage_pct: 0.0109
+  population_under_poverty_line_pct: 0.0101
+  schools_internet access_pct: 0.0092
+  3G_coverage_pct: 0.0084
+  internet_users_pct.1: 0.0081
+  mkt_structure_fibre_monopoly: 0.0034
+  region_South America: 0.0031
+  support_digital_literacy: 0.0018
+  income_group_lower_middle_income: 0.0016
+  income_group_upper_middle_income: 0.0013
+  efinance_content: 0.0011
+  region_Europe: 0.0010
+  region_Middle East: 0.0005
+  income_group_high_income: 0.0002
+  mkt_structure_fibre_partialcomp: 0.0002
+  mkt_structure_fixed_wireless_broadband_partialcomp: 0.0001
+  mkt_structure_fixed_wireless_broadband_monopoly: 0.0001
+  region_Oceania: 0.0000
+
+--------------------------------------------------
+
