@@ -1,9 +1,9 @@
 Project: Impact of Digital Literacy on Financial Outcomes – A Cross-Country Analysis
 
 Dataset Overview: This study utilized aggregated data from 82 countries, focusing on 2021, to investigate the relationship between digital literacy and financial outcomes. Key data sources included:
-  World Bank: Provided metrics on digital literacy, financial inclusion, and perceived financial well-being.
-  Meta's Data for Good: Supplied control variables for cross-country comparisons.
-  ITU Internet Inclusivity Index: Offered insights into digital skills and infrastructural variables.
+  - World Bank: Provided metrics on digital literacy, financial inclusion, and perceived financial well-being.
+  - Meta's Data for Good: Supplied control variables for cross-country comparisons.
+  - ITU Internet Inclusivity Index: Offered insights into digital skills and infrastructural variables.
   
 Data Preparation:
   Timeframe: Data from 2010–2023 was cleaned and filtered to focus on 2021 for consistency.
